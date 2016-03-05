@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vitaeexcellentiu02nepouoft_0477.png"; bbox 0 0 2306 3900; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 584 1817 1713 1953">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 584 1817 1713 1953">
+     <span class='ocr_line' id='line_1_1' title="bbox 584 1817 1713 1859; baseline 0.001 -3"><span class='ocrx_word' id='word_1_1' title='bbox 584 1819 752 1859; x_wconf 62' lang='lat' dir='ltr'><strong>1³1le</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 792 1817 1046 1856; x_wconf 78' lang='lat' dir='ltr'><strong>OPERUM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1088 1817 1384 1855; x_wconf 81' lang='lat' dir='ltr'>CORNELII</span> <span class='ocrx_word' id='word_1_4' title='bbox 1428 1817 1713 1857; x_wconf 80' lang='lat' dir='ltr'><strong>NEPO&#39;rls.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 791 1917 1528 1953; baseline -0.009 -3"><span class='ocrx_word' id='word_1_5' title='bbox 791 1917 1528 1953; x_wconf 76' lang='lat'>.—..-·-·-·-·-.--·.-·.—--·------.‚-—</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
